@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ES2020",
+    "outDir": "dist",
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "nodenext",
+    "jsx": "preserve"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

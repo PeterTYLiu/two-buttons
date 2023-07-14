@@ -1,0 +1,22 @@
+{
+  "name": "two-buttons",
+  "version": "1.0.0",
+  "description": "Why have one button when you can have two?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "author": "Peter Liu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15"
+  }
+}
