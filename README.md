@@ -12,7 +12,7 @@ npm i two-buttons
 import TwoButtons from "two-buttons";
 
 function MyTwoButtons() {
-  <TwoButtons className="btn">Hello</TwoButtons>;
+  return <TwoButtons className="btn">Hello</TwoButtons>;
 }
 ```
 

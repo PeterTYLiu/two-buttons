@@ -1,6 +1,6 @@
 {
   "name": "two-buttons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Why have one button when you can have two?",
   "main": "dist/index.jsx",
   "module": "dist/index.jsx",
